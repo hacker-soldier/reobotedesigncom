@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="profile" href="http://gmpg.org/xfn/11">
 
-    <title>Reobote Design - Soluções Otimizadas de Marketing e Comunicação</title>
+    <title>Reobote Design - Crescimento de Empresas Online</title>
 
 <!-- This site is optimized with the Yoast SEO plugin v6.3.1 - https://yoast.com/wordpress/plugins/seo/ -->
 <meta name="description" content="Oferecemos soluções que otimizam o marketing da sua empresa. Somos especialistas em comunicação, marketing e design focado no crescimento de negócios. Nosso objetivo é agir com transparência e profissionalismo para potencializar projetos. Soluções Otimizadas de Marketing, Design e Comunicação."/>
@@ -52,10 +52,17 @@
 <meta property="og:image" content="http://www.reobotedesign.com.br/wp-content/uploads/2018/02/PERSONAL-REMER_LOGO_2.png" />
 <meta property="og:image" content="http://www.reobotedesign.com.br/wp-content/uploads/2018/02/Logo-LaDebs.png" />
 <meta name="twitter:card" content="summary" />
+
+
 <meta name="twitter:description" content="Oferecemos soluções que otimizam o marketing da sua empresa. Somos especialistas em comunicação, marketing e design focado no crescimento de negócios. Nosso objetivo é agir com transparência e profissionalismo para potencializar projetos. Soluções Otimizadas de Marketing, Design e Comunicação." />
+
 <meta name="twitter:title" content="Reobote Design - Soluções Otimizadas de Marketing e Comunicação" />
 <meta name="twitter:image" content="http://www.reobotedesign.com.br/wp-content/uploads/2018/01/AI-02.png" />
-<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/www.reobotedesign.com.br\/","name":"crescimento de empresas online","alternateName":"Reobote Design e Comunica\u00e7\u00e3o","potentialAction":{"@type":"SearchAction","target":"http:\/\/www.reobotedesign.com.br\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+
+<script type='application/ld+json'>
+{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/www.reobotedesign.com.br\/","name":"crescimento de empresas online","alternateName":"Reobote Design e Comunica\u00e7\u00e3o","potentialAction":{"@type":"SearchAction","target":"http:\/\/www.reobotedesign.com.br\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+
+
 <script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":"http:\/\/www.reobotedesign.com.br\/","sameAs":["https:\/\/www.facebook.com\/reobotedesign\/","https:\/\/www.instagram.com\/reobotedesign\/","https:\/\/www.linkedin.com\/company\/25046035\/"],"@id":"#organization","name":"Reobote Design e Comunica\u00e7\u00e3o","logo":"http:\/\/www.reobotedesign.com.br\/wp-content\/uploads\/2018\/01\/\u00cdcone-Site.png"}</script>
 <meta name="google-site-verification" content="6HlVzgM7grIxzhfXDqLh8NQb9pjG1-VMBdl80fq-D3w" />
 <!-- / Yoast SEO plugin. -->
