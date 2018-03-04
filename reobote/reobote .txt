@@ -1,0 +1,830 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR" prefix="og: http://ogp.me/ns#">
+<head>
+	<meta name="yandex-verification" content="021d45670e7d378b" />
+	<meta name="msvalidate.01" content="EB1426E3B0F3BD0961E38BBA6E01C748" />
+	<meta name="google-site-verification" content="7VFEuEYllD1KuQmEKZehA0oGm36hZSyV1nzpxgV3JNk" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+
+    <title>Reobote Design - Soluções Otimizadas de Marketing e Comunicação</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v6.3.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Oferecemos soluções que otimizam o marketing da sua empresa. Somos especialistas em comunicação, marketing e design focado no crescimento de negócios. Nosso objetivo é agir com transparência e profissionalismo para potencializar projetos. Soluções Otimizadas de Marketing, Design e Comunicação."/>
+<link rel="canonical" href="http://www.reobotedesign.com.br/" />
+<meta property="og:locale" content="pt_BR" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Reobote Design - Soluções Otimizadas de Marketing e Comunicação" />
+<meta property="og:description" content="Oferecemos soluções que otimizam o marketing da sua empresa. Somos especialistas em comunicação, marketing e design focado no crescimento de negócios. Nosso objetivo é agir com transparência e profissionalismo para potencializar projetos. Soluções Otimizadas de Marketing, Design e Comunicação." />
+<meta property="og:url" content="http://www.reobotedesign.com.br/" />
+<meta property="og:site_name" content="Reobote Design" />
+<meta property="og:image" content="http://www.reobotedesign.com.br/wp-content/uploads/2018/01/AI-02.png" />
+<meta property="og:image" content="http://www.reobotedesign.com.br/wp-content/uploads/2018/01/AI-01.png" />
+<meta property="og:image" content="http://www.reobotedesign.com.br/wp-content/uploads/2018/01/AI-03.png" />
+<meta property="og:image" content="http://www.reobotedesign.com.br/wp-content/uploads/2018/01/cropped-Card%C3%A1pio-Pizza-Burguer.png" />
+<meta property="og:image" content="http://www.reobotedesign.com.br/wp-content/uploads/2018/01/cropped-Flyer-Aline-Vianna.png" />
+<meta property="og:image" content="http://www.reobotedesign.com.br/wp-content/uploads/2018/01/cropped-Emporium-da-Beleza.png" />
+<meta property="og:image" content="http://www.reobotedesign.com.br/wp-content/uploads/2018/01/cropped-Flyer-La-Debs-Bolos.png" />
+<meta property="og:image" content="http://www.reobotedesign.com.br/wp-content/uploads/2018/01/cropped-Flyer-Roger-Franco.jpg" />
+<meta property="og:image" content="http://www.reobotedesign.com.br/wp-content/uploads/2018/02/cropped-Acampadentro-Juventude-Lagoinha.png" />
+<meta property="og:image" content="http://www.reobotedesign.com.br/wp-content/uploads/2018/01/cropped-Flyer-Meu-Stilo.jpg" />
+<meta property="og:image" content="http://www.reobotedesign.com.br/wp-content/uploads/2018/01/cropped-Jornal.jpg" />
+<meta property="og:image" content="http://www.reobotedesign.com.br/wp-content/uploads/2018/01/Tiago-Lima-Cliente-01.png" />
+<meta property="og:image" content="http://www.reobotedesign.com.br/wp-content/uploads/2018/01/Luciana-Soares-Cliente-02.png" />
+<meta property="og:image" content="http://www.reobotedesign.com.br/wp-content/uploads/2018/01/Anany-Vilarino-Cliente-03.png" />
+<meta property="og:image" content="http://www.reobotedesign.com.br/wp-content/uploads/2018/01/Pablo.png" />
+<meta property="og:image" content="http://www.reobotedesign.com.br/wp-content/uploads/2018/01/Flávia-Alves.png" />
+<meta property="og:image" content="http://www.reobotedesign.com.br/wp-content/uploads/2018/01/Roney-Laurent.png" />
+<meta property="og:image" content="http://www.reobotedesign.com.br/wp-content/uploads/2018/01/Vladimir.png" />
+<meta property="og:image" content="http://www.reobotedesign.com.br/wp-content/uploads/2018/01/Erick-Moulaz.png" />
+<meta property="og:image" content="http://www.reobotedesign.com.br/wp-content/uploads/2018/02/Conexão-Barbers-Logo-.png" />
+<meta property="og:image" content="http://www.reobotedesign.com.br/wp-content/uploads/2018/02/Graf_Vert_Black.png" />
+<meta property="og:image" content="http://www.reobotedesign.com.br/wp-content/uploads/2018/02/LOGO-ALINE-VIANA-PNG.png" />
+<meta property="og:image" content="http://www.reobotedesign.com.br/wp-content/uploads/2018/02/Logo-Doce-Pensamento.png" />
+<meta property="og:image" content="http://www.reobotedesign.com.br/wp-content/uploads/2018/02/Logo-Drogaria-do-Povo.png" />
+<meta property="og:image" content="http://www.reobotedesign.com.br/wp-content/uploads/2018/02/cropped-LOGO-RODIMA-OFICIAL-COM-EFEITO.png" />
+<meta property="og:image" content="http://www.reobotedesign.com.br/wp-content/uploads/2018/02/Logo-Super-poderosas.png" />
+<meta property="og:image" content="http://www.reobotedesign.com.br/wp-content/uploads/2018/02/Logotipo-Álvaro-com-efeitos.png" />
+<meta property="og:image" content="http://www.reobotedesign.com.br/wp-content/uploads/2018/02/Logotipo-Pizza-Burguer.png" />
+<meta property="og:image" content="http://www.reobotedesign.com.br/wp-content/uploads/2018/02/Logotipo-Roberto-Cunha-Tipografia.png" />
+<meta property="og:image" content="http://www.reobotedesign.com.br/wp-content/uploads/2018/02/PERSONAL-REMER_LOGO_2.png" />
+<meta property="og:image" content="http://www.reobotedesign.com.br/wp-content/uploads/2018/02/Logo-LaDebs.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Oferecemos soluções que otimizam o marketing da sua empresa. Somos especialistas em comunicação, marketing e design focado no crescimento de negócios. Nosso objetivo é agir com transparência e profissionalismo para potencializar projetos. Soluções Otimizadas de Marketing, Design e Comunicação." />
+<meta name="twitter:title" content="Reobote Design - Soluções Otimizadas de Marketing e Comunicação" />
+<meta name="twitter:image" content="http://www.reobotedesign.com.br/wp-content/uploads/2018/01/AI-02.png" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/www.reobotedesign.com.br\/","name":"crescimento de empresas online","alternateName":"Reobote Design e Comunica\u00e7\u00e3o","potentialAction":{"@type":"SearchAction","target":"http:\/\/www.reobotedesign.com.br\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":"http:\/\/www.reobotedesign.com.br\/","sameAs":["https:\/\/www.facebook.com\/reobotedesign\/","https:\/\/www.instagram.com\/reobotedesign\/","https:\/\/www.linkedin.com\/company\/25046035\/"],"@id":"#organization","name":"Reobote Design e Comunica\u00e7\u00e3o","logo":"http:\/\/www.reobotedesign.com.br\/wp-content\/uploads\/2018\/01\/\u00cdcone-Site.png"}</script>
+<meta name="google-site-verification" content="6HlVzgM7grIxzhfXDqLh8NQb9pjG1-VMBdl80fq-D3w" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="Feed para Reobote Design &raquo;" href="http://www.reobotedesign.com.br/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para Reobote Design &raquo;" href="http://www.reobotedesign.com.br/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.reobotedesign.com.br\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.3"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+		<style type="text/css">
+				</style>
+	<link rel='stylesheet' id='mesmerize-style-css'  href='http://www.reobotedesign.com.br/wp-content/themes/mesmerize/style.min.css?ver=1.2' type='text/css' media='all' />
+<style id='mesmerize-style-inline-css' type='text/css'>
+img.logo.dark, img.custom-logo{width:auto;max-height:70px;}
+</style>
+<link rel='stylesheet' id='mesmerize-common-css-css'  href='http://www.reobotedesign.com.br/wp-content/plugins/mesmerize-companion/theme-data/mesmerize/assets/css/common.css?ver=1.0.184' type='text/css' media='all' />
+<link rel='stylesheet' id='companion-page-css-css'  href='http://www.reobotedesign.com.br/wp-content/plugins/mesmerize-companion/theme-data/mesmerize/sections/content.css?ver=1.0.184' type='text/css' media='all' />
+<link rel='stylesheet' id='cf7msm_styles-css'  href='http://www.reobotedesign.com.br/wp-content/plugins/contact-form-7-multi-step-module/resources/cf7msm.css?ver=3.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://www.reobotedesign.com.br/wp-includes/css/dashicons.min.css?ver=4.9.3' type='text/css' media='all' />
+<link rel='stylesheet' id='obfx-module-pub-css-menu-icons-0-css'  href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=2.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='mesmerize-font-awesome-css'  href='http://www.reobotedesign.com.br/wp-content/themes/mesmerize/assets/font-awesome/font-awesome.min.css?ver=1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css'  href='http://www.reobotedesign.com.br/wp-content/themes/mesmerize/assets/css/animate.min.css?ver=1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='mesmerize-webgradients-css'  href='http://www.reobotedesign.com.br/wp-content/themes/mesmerize/assets/css/webgradients.min.css?ver=1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='mesmerize-fonts-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C600%2C700%7CMuli%3A300%2C300italic%2C400%2C400italic%2C600%2C600italic%2C700%2C700italic%2C900%2C900italic%7CPlayfair+Display%3A400%2C400italic%2C700%2C700italic&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='kirki-styles-mesmerize-css'  href='http://www.reobotedesign.com.br/wp-content/themes/mesmerize/customizer/kirki/assets/css/kirki-styles.css' type='text/css' media='all' />
+<style id='kirki-styles-mesmerize-inline-css' type='text/css'>
+.header{background-position:center center;}.header-homepage.color-overlay:before{background:#000000;}.header-homepage .background-overlay,.header-homepage.color-overlay::before{opacity:0.5;}.header-homepage-arrow{font-size:50px !important;bottom:20px !important;background:rgba(255,255,255,0);}.header-homepage-arrow > i{width:50px;height:50px;color:#ffffff;}.mesmerize-front-page .header-separator .svg-white-bg{fill:rgb(230,196,25)!important;}.mesmerize-front-page .header-separator svg{height:163px!important;}.header.color-overlay:after{filter:invert(0%) ;}body .header .svg-white-bg{fill:rgb(230,206,37)!important;}.header-separator svg{height:224px!important;}.header-homepage .header-description-row{padding-top:15%;padding-bottom:30%;}.inner-header-description{padding-top:5%;padding-bottom:5%;}@media screen and (max-width:767px){.header-homepage .header-description-row{padding-top:10%;padding-bottom:10%;}}@media only screen and (min-width: 768px){.header-content .align-holder{width:70%!important;}.inner-header-description{text-align:left!important;}}
+</style>
+<link rel='stylesheet' id='wp-paginate-css'  href='http://www.reobotedesign.com.br/wp-content/plugins/wp-paginate/css/wp-paginate.css?ver=2.0.4' type='text/css' media='screen' />
+<script type='text/javascript' src='http://www.reobotedesign.com.br/wp-content/plugins/mesmerize-companion/theme-data/mesmerize/assets/js/libs/hammer.js?ver=1.0.184'></script>
+<script type='text/javascript' src='http://www.reobotedesign.com.br/wp-content/plugins/mesmerize-companion/theme-data/mesmerize/assets/js/libs/modernizr.js?ver=1.0.184'></script>
+<script type='text/javascript' src='http://www.reobotedesign.com.br/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript'>
+    
+        (function ($) {
+            function setHeaderTopSpacing() {
+                $('.header-wrapper .header,.header-wrapper .header-homepage').css({
+                    'padding-top': $('.header-top').height()
+                })
+            }
+
+            jQuery(window).on('resize orientationchange', setHeaderTopSpacing);
+            window.mesmerizeSetHeaderTopSpacing = setHeaderTopSpacing
+
+        })(jQuery);
+    
+    
+</script>
+<script type='text/javascript' src='http://www.reobotedesign.com.br/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://www.reobotedesign.com.br/wp-content/plugins/mesmerize-companion/theme-data/mesmerize/assets/js/HoverFX.js?ver=1.0.184'></script>
+<script type='text/javascript' src='http://www.reobotedesign.com.br/wp-content/plugins/mesmerize-companion/theme-data/mesmerize/assets/js/countup.js?ver=1.0.184'></script>
+<script type='text/javascript' src='http://www.reobotedesign.com.br/wp-content/plugins/mesmerize-companion/theme-data/mesmerize/sections/scripts.js?ver=1.0.184'></script>
+<link rel='https://api.w.org/' href='http://www.reobotedesign.com.br/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.reobotedesign.com.br/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.reobotedesign.com.br/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.3" />
+<link rel='shortlink' href='http://www.reobotedesign.com.br/' />
+<link rel="alternate" type="application/json+oembed" href="http://www.reobotedesign.com.br/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.reobotedesign.com.br%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.reobotedesign.com.br/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.reobotedesign.com.br%2F&#038;format=xml" />
+<meta name="google-site-verification" content="6HlVzgM7grIxzhfXDqLh8NQb9pjG1-VMBdl80fq-D3w" />
+<input class="up" type="hidden" name="cms" value="wp"><input class="up" type="hidden" name="signupArrow" value="true">		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #f5fafd; background-image: url("http://www.reobotedesign.com.br/wp-content/uploads/2018/01/Fundo-1920x800.png"); background-position: center center; background-size: cover; background-repeat: no-repeat; background-attachment: fixed; }
+</style>
+<link rel="icon" href="http://www.reobotedesign.com.br/wp-content/uploads/2018/01/cropped-cone-Site-32x32.png" sizes="32x32" />
+<link rel="icon" href="http://www.reobotedesign.com.br/wp-content/uploads/2018/01/cropped-cone-Site-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://www.reobotedesign.com.br/wp-content/uploads/2018/01/cropped-cone-Site-180x180.png" />
+<meta name="msapplication-TileImage" content="http://www.reobotedesign.com.br/wp-content/uploads/2018/01/cropped-cone-Site-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			html, body { 
+    margin-left: auto;
+		margin-right: auto;
+		margin-bottom: auto; 
+		margin-top: auto; 
+		width: 1366px; 
+		height: 768px; 
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
+		font-family: Tahoma, Arial, Times New Roman;
+		align-content: stretch;
+}
+
+p.caixa-analise-dados {
+	font-family: Tahoma, Arial, Times New Roman;
+	font-size-adjust: absolute; 
+	
+	
+}
+
+h3 { 
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+
+.sobre-solucoes-negocios {
+	padding: 15px 0 5px;
+	border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+	
+}
+p { text-align: center; 
+	content: justify;
+
+}
+
+p.crescimento-online {
+	text-align: center; 
+	content: justify;
+	font-family: Tahoma, Arial, Times New Roman; 
+}
+
+h4, h5 { 
+text-decoration-color: grey;
+	
+}
+
+#sobre { 
+	margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+
+}
+
+input {position: relative; top: 50px; left: 50px;}
+
+p, h5, div {
+	text-align: center;
+	
+}		</style>
+	    <style id="page-content-custom-styles">
+            </style>
+            <style data-name="background-content-colors">
+            .mesmerize-inner-page .page-content,
+            .mesmerize-inner-page .content,
+            .mesmerize-front-page.mesmerize-content-padding .page-content {
+               background-color: #f5fafd;
+            }
+        </style>
+    </head>
+
+<body class="home page-template page-template-page-templates page-template-homepage page-template-page-templateshomepage-php page page-id-4 custom-background wp-custom-logo offcanvas_menu-tablet mesmerize-front-page mesmerize-content-no-padding ">
+
+
+<div id="page-top" class="header-top homepage">
+            <div class="header-top-bar ">
+            <div class="">
+                <div class="header-top-bar-inner row middle-xs start-xs ">
+                        <div class="header-top-bar-area  col-xs area-left">
+            </div>
+                            <div class="header-top-bar-area  col-xs-fit area-right">
+            <div data-type="group"  data-dynamic-mod="true" class="top-bar-social-icons">
+        
+            <a target="_blank"  class="social-icon" href="https://www.facebook.com/reobotedesign/">
+                <i class="fa fa-facebook-official"></i>
+            </a>
+
+            
+            <a target="_blank"  class="social-icon" href="https://www.linkedin.com/company/25046035/admin/updates/">
+                <i class="fa fa-linkedin"></i>
+            </a>
+
+            
+            <a target="_blank"  class="social-icon" href="https://www.instagram.com/reobotedesign/">
+                <i class="fa fa-instagram"></i>
+            </a>
+
+            
+    </div>
+
+        </div>
+                    </div>
+            </div>
+        </div>
+            <div class="navigation-bar homepage" >
+    <div class="navigation-wrapper ">
+    	<div class="row basis-auto">
+	        <div class="logo_col col-xs col-sm-fit">
+	            <a href="http://www.reobotedesign.com.br/" class="custom-logo-link" rel="home" itemprop="url"><img width="386" height="291" src="http://www.reobotedesign.com.br/wp-content/uploads/2018/01/cropped-Reobote-Design.png" class="custom-logo" alt="Reobote Design" itemprop="logo" srcset="http://www.reobotedesign.com.br/wp-content/uploads/2018/01/cropped-Reobote-Design.png 386w, http://www.reobotedesign.com.br/wp-content/uploads/2018/01/cropped-Reobote-Design-300x226.png 300w" sizes="(max-width: 386px) 100vw, 386px" /></a>	        </div>
+	        <div class="main_menu_col col-xs">
+	            <div id="mainmenu_container" class="row"><ul id="main_menu" class="active-line-bottom main-menu dropdown-menu"><li id="menu-item-22" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-22"><a href="http://www.reobotedesign.com.br">Início</a></li>
+<li id="menu-item-33" class="pen-overlay menu-item menu-item-type-post_type menu-item-object-page menu-item-33"><a href="http://www.reobotedesign.com.br/portfolio/">Portfolio</a></li>
+<li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a href="http://www.reobotedesign.com.br/blog/">Blog</a></li>
+</ul></div>    <a href="#" data-component="offcanvas" data-target="#offcanvas-wrapper" data-direction="right" data-width="300px" data-push="false">
+        <div class="bubble"></div>
+        <i class="fa fa-bars"></i>
+    </a>
+    <div id="offcanvas-wrapper" class="hide force-hide  offcanvas-right">
+        <div class="offcanvas-top">
+            <div class="logo-holder">
+                <a href="http://www.reobotedesign.com.br/" class="custom-logo-link" rel="home" itemprop="url"><img width="386" height="291" src="http://www.reobotedesign.com.br/wp-content/uploads/2018/01/cropped-Reobote-Design.png" class="custom-logo" alt="Reobote Design" itemprop="logo" srcset="http://www.reobotedesign.com.br/wp-content/uploads/2018/01/cropped-Reobote-Design.png 386w, http://www.reobotedesign.com.br/wp-content/uploads/2018/01/cropped-Reobote-Design-300x226.png 300w" sizes="(max-width: 386px) 100vw, 386px" /></a>            </div>
+        </div>
+        <div id="offcanvas-menu" class="menu-menu-principal-1-container"><ul id="offcanvas_menu" class="offcanvas_menu"><li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-22"><a href="http://www.reobotedesign.com.br">Início</a></li>
+<li class="pen-overlay menu-item menu-item-type-post_type menu-item-object-page menu-item-33"><a href="http://www.reobotedesign.com.br/portfolio/">Portfolio</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a href="http://www.reobotedesign.com.br/blog/">Blog</a></li>
+</ul></div>
+            </div>
+    	        </div>
+	    </div>
+    </div>
+</div></div>
+
+
+<div id="page" class="site">
+    <div class="header-wrapper">
+        <div  class='header-homepage  color-overlay' style=''>
+                                    
+    <div class="header-description gridContainer content-on-center">
+        <div class="row header-description-row middle-sm">
+    <div class="header-content header-content-centered col-md col-xs-12">
+        <div class="align-holder center">
+                    </div>
+    </div>
+</div>
+    </div>
+
+        <script>
+        window.mesmerizeSetHeaderTopSpacing();
+    </script>
+    
+            <div class="header-separator header-separator-bottom header-separator-reverse"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2600 131.1" preserveAspectRatio="none">
+	<path class="svg-white-bg" d="M0 0L2600 0 2600 69.1 0 0z"/>
+	<path class="svg-white-bg" style="opacity:0.5" d="M0 0L2600 0 2600 69.1 0 69.1z"/>
+	<path class="svg-white-bg" style="opacity:0.25" d="M2600 0L0 0 0 130.1 2600 69.1z"/>
+</svg></div>                    <div class="header-homepage-arrow-c">
+            <span class="header-homepage-arrow move-down-bounce"> <i class="fa arrow fa-angle-down" aria-hidden="true"></i>
+            </span>
+        </div>
+                </div>
+    </div>
+
+<div class="page-content">
+  <div class="content">
+   <div id="upinpost-header" style="clear:both"></div><div id="upinpost-body"><div  id="sobre" style="background-color: #f5fafd; background-image: none;" data-label="Sobre" data-id="overlappable-4" data-export-id="overlappable-4" data-category="overlappable" class="overlappable-4 content-section content-section-spacing" data-overlap="true">
+<div  class="">
+<div  data-type="row" class="row spaced-cols text-center content-center-sm">
+<div  class="col-xs-12 col-sm-4 col-padding col-md-4">
+
+<i  class="fa icon shadow-large-black aligncenter color1 fa-bar-chart-o reverse round large"> </i>
+<div  data-type="column" class="">
+<h5  class="">FOCADOS EM CRESCIMENTO ONLINE</h5>
+<p  class="">Nossos profissionais capacitados em solucionar e otimizar o crescimento sustentável do seu negócio online. Resolvemos seu problema com a melhor estratégia, de acordo com seu negócio e posicionamento de marca.</p>
+
+</div>
+</div>
+<div  class="col-xs-12 col-sm-4 col-padding col-md-4 ">
+
+<i  class="fa icon shadow-large-black aligncenter color1 fa-edit reverse round large"> </i>
+<div  data-type="column" class="">
+<h5  class="">DESIGN DETALHISTA E ATUAL</h5>
+<p  class="">A inteligência criativa da equipe é sem limites. Estamos munidos de um processo criativo minucioso para alcançar o melhor resultado desde um flyer até uma identidade visual. O design que fazemos é projetado conforme seu objetivo e focado em crescimento e vendas online.</p>
+
+</div>
+</div>
+<div  class="col-xs-12 col-sm-4 col-padding col-md-4 ">
+
+<i  class="fa icon shadow-large-black aligncenter color1 fa-clipboard reverse round large"> </i>
+<div  data-type="column" class="">
+<h5  class="">OTIMIZAMOS VENDAS ONLINE</h5>
+<p  class="">A comunicação inteligente e contextual ajuda no diálogo e faz você vender mais pela internet. Nós te ajudamos a fazer suas vendas aumentarem com a internet. Agimos para melhorar suas vendas online. Vendas e comunicação andam juntas e a internet otimiza e serve de canal.</p>
+
+</div>
+</div>
+</div>
+</div>
+</div><div  id="about-1" style="background-color: #f5fafd; background-image: none;" data-label="About" data-id="about-1" data-export-id="about-1" data-category="about" class="about-1 content-section content-section-spacing">
+<div  class="gridContainer">
+<div  class="row text-center">
+<div  class="section-title-col" data-type="column">
+<h2  class="">CRESCIMENTO DE NEGÓCIOS ONLINE/OFFLINE</h2>
+<h4  class="sobre-solucoes-negocios">A Reobote Design e Comunicação está localizada em Belo Horizonte/MG. Atuando desde 2015 no cenário de comunicação e marketing, a fim de solucionar com maestria os diversos problemas do mercado. O objetivo da empresa é otimizar com racionalidade o seu marketing, design e comunicação, dialogando com a sua comunidade em contexto com a sua realidade e solucionando um problema que seu alvo de vendas possui e atingindo a “veia comportamental”. A ousadia de criar nos proporciona liberdade para atingir resultados de alta performance. Nosso foco é atingir o nível máximo de satisfação do cliente e do consumidor-alvo. Acreditamos que dados contribuem para agir com racionalidade na criação, planejamento e execução das campanhas publicitárias. Você é nosso convidado para conhecer um pouco mais sobre nossas soluções.</h4>
+&nbsp;
+
+<a  class="button color1" href="https://www.slideshare.net/RoneyLaurent/apresentao-institucional-reobote-design-e-comunicao-parceira-ad-jobs?ref=https%3A%2F%2Fwww.slideshare.net%2FRoneyLaurent%2Fslideshelf" target="_blank" data-cp-link="1" rel="noopener">SAIBA MAIS AQUI</a>
+
+</div>
+</div>
+<div  class="row">
+<div  class="col-xs bottom-xs flexbox image-group-bottom-3-img space-bottom-xs center-xs"><img  class="left-img shadow-large-black" data-size="500x300" src="http://www.reobotedesign.com.br/wp-content/uploads/2018/01/AI-02.png"> <img  class="center-img shadow-large-black" data-size="500x300" src="http://www.reobotedesign.com.br/wp-content/uploads/2018/01/AI-01.png"> <img  class="right-img shadow-large-black" data-size="500x300" src="http://www.reobotedesign.com.br/wp-content/uploads/2018/01/AI-03.png"></div>
+</div>
+</div>
+</div><div  id="features-3" style="background-color: #ffffff;" data-label="Features" data-id="features-12-card-bordered" data-export-id="features-12-card-bordered" data-category="features" class="features-12-card-bordered content-section content-section-spacing ">
+<div  class="gridContainer">
+<div  class="row text-center">
+<div  class="section-title-col" data-type="column">
+<h2  class="">Crescimento On/Off + Soluções Inteligentes = Aumento de Vendas</h2>
+<p  class="crescimento-online">Somos uma equipe que uniu profissionais capacitados e qualificados, com o objetivo de solucionar necessidades de crescimento de empresas online e off-line, otimizando o marketing digital, a comunicação, e também, vendas e o design gráfico, na web e fora dela. Fazemos sua empresa vender mais e constantemente! O crescimento da sua empresa online depende de marketing e comunicação em contexto com seu negócio, e que resolva algo que seu publico precise. A soma de experimentar sempre e observar com atenção os dados, estatísticas e estudos de mercado, casos de sucesso, ações e retornos nos ajuda a desenvolver melhores processos com resultados e ações mais assertivas para o crescimento exponencial e sustentável de marcas. Somos treinados para melhorar a venda do seu produto/serviço para crescer sua marca online e off-line e contribuir positivamente para o seu sucesso na internet.</p>
+
+</div>
+</div>
+<div  class="row spaced-cols content-left-sm" data-type="row">
+<div  class="col-sm-6 col-md-4 ">
+<div  class="card row-card bordered y-move">
+<div  class="row">
+<div  class="col-sm-fit icon-column"><i  class="fa icon color2 fa-database bordered round"> </i></div>
+<div  class="col-sm" data-type="column">
+<h5  class="color2">ANÁLISE / DADOS</h5>
+<p  class="caixa-analise-dados">A equipe da Reobote Design e Comunicação em união com a Ad Jobs / Growth Solutions, estuda todos os dados possíveis para entender melhor a sua situação de mercado e necessidade de consumo. Os dados são essências pra gente.</p>
+
+</div>
+</div>
+</div>
+</div>
+<div  class="col-sm-6 col-md-4 ">
+<div  class="card row-card bordered y-move">
+<div  class="row">
+<div  class="col-sm-fit icon-column"><i  class="fa icon color2 fa-check-square-o bordered round"> </i></div>
+<div  class="col-sm" data-type="column">
+<h5  class="color2">DEMANDA / SOLUÇÃO</h5>
+<p  class="">Nosso papel principal é agir com transparência e estudar sua demanda, para adequar com racionalidade a solução que será efetiva para o seu negócio. A solução é de acordo com o que você pode, de acordo com o que você precisa.</p>
+
+</div>
+</div>
+</div>
+</div>
+<div  class="col-sm-6 col-md-4 ">
+<div  class="card row-card bordered y-move">
+<div  class="row">
+<div  class="col-sm-fit icon-column"><i  class="fa icon color2 fa-bullhorn bordered round"> </i></div>
+<div  class="col-sm" data-type="column">
+<h5  class="color2">APROVAÇÃO / AÇÃO</h5>
+<p  class="">Após a decisão da escolha da solução, a aprovação do cliente é importante. Após a confirmação e negociação, a equipe começa a agir para atingir os resultados e estratégias que foram definidas após o planejamento de marketing e comunicação. A ação é com base nos objetivos e metas de cada negócio.</p>
+
+</div>
+</div>
+</div>
+</div>
+<div  class="col-sm-6 col-md-4 ">
+<div  class="card row-card bordered y-move">
+<div  class="row">
+<div  class="col-sm-fit icon-column"><i  class="fa icon color2 fa-handshake-o bordered round"> </i></div>
+<div  class="col-sm" data-type="column">
+<h5  class="color2">FLEXIBILIDADE</h5>
+<p  class="">A transparência e a flexibilidade são nossas qualidades mais fortes. A equipe possui uma competência atenciosa que contribui para melhores negociações e flexibilidade de atendimento. Sempre ajudamos o cliente a entender melhor sobre seus resultados, melhorias e como sua marca está crescendo através do nosso trabalho.</p>
+
+</div>
+</div>
+</div>
+</div>
+<div  class="col-sm-6 col-md-4">
+<div  class="card row-card bordered y-move">
+<div  class="row">
+<div  class="col-sm-fit icon-column"><i  class="fa icon color2 fa-bitcoin bordered round"> </i></div>
+<div  class="col-sm" data-type="column">
+<h5  class="color2">PAGAMENTO DIGITAL</h5>
+<p  class="">A Reobote fez uma parceria com os tecnológicos da Ad Jobs, e agora os nossos serviços de marketing digital e são aceitos em bitcoin (moeda digital). Fazemos de tudo para facilitar seu crescimento online.
+O potencial da tecnologia é imenso e por isso decidimos aceitar a parceria da Ad Jobs, aceitamos pagamento em bitcoin para alguns serviços. Saiba mais!</p>
+<a  class="button blue" href="http://adjobsgrowthhacking.negocio.site" target="_self" data-cp-link="1">SAIBA MAIS</a>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div><div  id="content-13" style="background-color: #f5fafd;" data-label="Content" data-id="content-2" data-export-id="content-2" data-category="content" class="content-2 content-section content-section-spacing">
+<div  class="gridContainer">
+<div  class="row middle-xs">
+<div  class="col-sm-5 bg-image shadow-large-black" data-bg="image" style="background-image: url('http://www.reobotedesign.com.br/wp-content/uploads/2018/02/cropped-entrepreneur-1340649_960_720.jpg');"></div>
+<div  class="col-sm-7 full-col-left-padding full-col-right-padding">
+<div  class="row">
+<div  data-type="column" class="space-bottom-small content-title-col">
+<h2  class="">O Segredo do Sucesso</h2>
+<p  class="">O segredo do sucesso com marketing digital, design e comunicação está no experimentar. O crescimento online da qualquer empresa, em qualquer ramo depende de muito esforço, estratégia e análises. Os testes, priorizações e os dados nos permite adequar negócios à nova realidade do mundo digital. Precisamos utilizar de métodos comprovados e técnicas diversas para atrair uma audiência qualificada hoje em dia. Os dados contribuem e os processos nos ensinam como alcançar o sucesso de negócios online. O segredo do sucesso está dentro de cada ser humano, cada pessoa descobre de um jeito e crescimento online da sua empresa depende da sua decisão.&nbsp;<strong ></strong></p>
+&nbsp;
+
+<a  class="link" href="https://facebook.com/reobotedesign" target="_blank" data-cp-link="1" rel="noopener">CURTA NOSSA PÁGINA AQUI</a>
+
+</div>
+</div>
+<div  class="row spaced-cols " data-type="row">
+<div  class="col-xs-6" data-type="column">
+<h5  class="">DIVULGAÇÃO DIGITAL NA INTERNET</h5>
+<p  class="">Temos especialistas em divulgação digital na internet que potencializam o sucesso de negócios e fazem você trilhar no caminho certo. O crescimento do seu negócio online depende de vários fatores e ações tecnológicas inteligentes.</p>
+
+</div>
+<div  class="col-xs-6" data-type="column">
+<h5  class="">CRIAÇÃO E ARTE VISUAL</h5>
+<p  class="">O design user experience que cria a sua identidade visual e artes gráficas detalhistas em contexto com sua empresa. O seu nicho de consumo deve estar completamente contextualizado. Agimos em prol de melhorar sua visibilidade online.</p>
+
+</div>
+<div  class="col-xs-6" data-type="column">
+<h5  class="">COMUNICAÇÃO OTIMIZADA</h5>
+<p  class="">A comunicação é tônica de cada marca deve ser personificada e contextual. As suas características devem se relacionar com a comunicação. A comunicação otimizada que faz crescer sua empresa online e contribui para que as pessoas criem identificação positiva.</p>
+
+</div>
+<div  class="col-xs-6" data-type="column">
+<h5  class="caixa-analise-dados">A MENTALIDADE DO CRESCIMENTO DIGITAL</h5>
+<p  class="">O nosso papel é agir com a mentalidade growth ou focados no crescimento de empresas online com alta performance e sustentabilidade. Somos movidos por experimentos em para otimizar resultados e crescimentos no meio digital. Somos movidos por internet marketing e métodos inteligentes de crescer empresas na web.</p>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div><div  id="portfolio-3" style="background-color: #f5fafd;" data-label="Portfolio" data-id="portfolio-4" data-export-id="portfolio-4" data-category="portfolio" class="portfolio-4 content-section content-section-spacing-top">
+<div  class="">
+<div  class="row text-center">
+<div  class="section-title-col" data-type="column">
+<h2  class="">Portfólio</h2>
+<p  class="lead">A nossa profissão é cheia de desafios mas também é muito gratificante. Conheça aqui alguns dos trabalhos que realizamos. A equipe de solucionadores em marketing e comunicação otimizados sempre trabalha duro para entregar sempre com qualidade e diferencial.</p>
+
+</div>
+</div>
+<div  data-type="row" class="row">
+<div  class="col-xs-12 col-sm-3 no-gutter-col">
+<div  class="contentswap-effect" data-hover-fx="portfolio-4">
+<div  class="initial-image"><img  data-size="542x360" src="http://www.reobotedesign.com.br/wp-content/uploads/2018/01/cropped-Card%C3%A1pio-Pizza-Burguer.png"></div>
+<div  class="overlay bg-color1"></div>
+<div  class="swap-inner col-xs-12">
+<div  class="row full-height-row middle-xs middle-sm">
+<div  class="col-xs-12 text-center content-holder"><a  href="" target="_self"><i  class="fa icon big portfolio-icon fa-search" aria-hidden="true"></i></a></div>
+</div>
+</div>
+</div>
+</div>
+<div  class="col-xs-12 col-sm-3 no-gutter-col">
+<div  class="contentswap-effect" data-hover-fx="portfolio-4">
+<div  class="initial-image"><img  data-size="542x360" src="http://www.reobotedesign.com.br/wp-content/uploads/2018/01/cropped-Flyer-Aline-Vianna.png"></div>
+<div  class="overlay bg-color1"></div>
+<div  class="swap-inner col-xs-12">
+<div  class="row full-height-row middle-xs middle-sm">
+<div  class="col-xs-12 text-center content-holder"><a  href="http://www.reobotedesign.com.br?page_id=27" target="_self"><i  class="fa icon big portfolio-icon fa-search" aria-hidden="true"></i></a></div>
+</div>
+</div>
+</div>
+</div>
+<div  class="col-xs-12 col-sm-3 no-gutter-col">
+<div  class="contentswap-effect" data-hover-fx="portfolio-4">
+<div  class="initial-image"><img  data-size="542x360" src="http://www.reobotedesign.com.br/wp-content/uploads/2018/01/cropped-Emporium-da-Beleza.png"></div>
+<div  class="overlay bg-color1"></div>
+<div  class="swap-inner col-xs-12">
+<div  class="row full-height-row middle-xs middle-sm">
+<div  class="col-xs-12 text-center content-holder"><a  href="http://www.reobotedesign.com.br?page_id=27" target="_self"><i  class="fa icon big portfolio-icon fa-search" aria-hidden="true"></i></a></div>
+</div>
+</div>
+</div>
+</div>
+<div  class="col-xs-12 col-sm-3 no-gutter-col">
+<div  class="contentswap-effect" data-hover-fx="portfolio-4">
+<div  class="initial-image"><img  data-size="542x360" src="http://www.reobotedesign.com.br/wp-content/uploads/2018/01/cropped-Flyer-La-Debs-Bolos.png"></div>
+<div  class="overlay bg-color1"></div>
+<div  class="swap-inner col-xs-12">
+<div  class="row full-height-row middle-xs middle-sm">
+<div  class="col-xs-12 text-center content-holder"><a  href="http://www.reobotedesign.com.br?page_id=27" target="_self"><i  class="fa icon big portfolio-icon fa-search" aria-hidden="true"></i></a></div>
+</div>
+</div>
+</div>
+</div>
+<div  class="col-xs-12 col-sm-3 no-gutter-col">
+<div  class="contentswap-effect" data-hover-fx="portfolio-4">
+<div  class="initial-image"><img  data-size="542x360" src="http://www.reobotedesign.com.br/wp-content/uploads/2018/01/cropped-Flyer-Roger-Franco.jpg"></div>
+<div  class="overlay bg-color1"></div>
+<div  class="swap-inner col-xs-12">
+<div  class="row full-height-row middle-xs middle-sm">
+<div  class="col-xs-12 text-center content-holder"><a  href="http://www.reobotedesign.com.br?page_id=27" target="_self"><i  class="fa icon big portfolio-icon fa-search" aria-hidden="true"></i></a></div>
+</div>
+</div>
+</div>
+</div>
+<div  class="col-xs-12 col-sm-3 no-gutter-col">
+<div  class="contentswap-effect" data-hover-fx="portfolio-4">
+<div  class="initial-image"><img  data-size="542x360" src="http://www.reobotedesign.com.br/wp-content/uploads/2018/02/cropped-Acampadentro-Juventude-Lagoinha.png"></div>
+<div  class="overlay bg-color1"></div>
+<div  class="swap-inner col-xs-12">
+<div  class="row full-height-row middle-xs middle-sm">
+<div  class="col-xs-12 text-center content-holder"><a  href="http://www.reobotedesign.com.br?page_id=27" target="_self"><i  class="fa icon big portfolio-icon fa-search" aria-hidden="true"></i></a></div>
+</div>
+</div>
+</div>
+</div>
+<div  class="col-xs-12 col-sm-3 no-gutter-col">
+<div  class="contentswap-effect" data-hover-fx="portfolio-4">
+<div  class="initial-image"><img  data-size="542x360" src="http://www.reobotedesign.com.br/wp-content/uploads/2018/01/cropped-Flyer-Meu-Stilo.jpg"></div>
+<div  class="overlay bg-color1"></div>
+<div  class="swap-inner col-xs-12">
+<div  class="row full-height-row middle-xs middle-sm">
+<div  class="col-xs-12 text-center content-holder"><a  href="http://www.reobotedesign.com.br?page_id=27" target="_self"><i  class="fa icon big portfolio-icon fa-search" aria-hidden="true"></i></a></div>
+</div>
+</div>
+</div>
+</div>
+<div  class="col-xs-12 col-sm-3 no-gutter-col">
+<div  class="contentswap-effect" data-hover-fx="portfolio-4">
+<div  class="initial-image"><img  data-size="542x360" src="http://www.reobotedesign.com.br/wp-content/uploads/2018/01/cropped-Jornal.jpg"></div>
+<div  class="overlay bg-color1"></div>
+<div  class="swap-inner col-xs-12">
+<div  class="row full-height-row middle-xs middle-sm">
+<div  class="col-xs-12 text-center content-holder"><a  href="http://www.reobotedesign.com.br?page_id=27" target="_self"><i  class="fa icon big portfolio-icon fa-search" aria-hidden="true"></i></a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div><div  id="testimonials-5" style="background-color: #ffffff;" data-label="Testimonials" data-id="testimonials-5" data-export-id="testimonials-5" data-category="testimonials" class="testimonials-5 content-section content-section-spacing">
+<div  class="">
+<div  class="row">
+<div  data-type="column" class="section-title-col">
+<h2  class="">Depoimento de Clientes</h2>
+<p  class="lead">Aqui você encontra os frutos do nosso trabalho por trás das telas. A transparência é nossa obrigação e sua satisfação é primordial. Soluções que otimizam o marketing e a comunicação do seu negócio. Fique a vontade!</p>
+
+</div>
+</div>
+<div  class="row spaced-cols content-center-sm" data-type="row">
+<div  class="col-sm-4">
+<div  class="card y-move bordered" data-type="column">
+
+<i  class="fa fa-quote-right icon color1 small"></i>
+<p  class="text-center">‘‘Em um mercado tão competitivo e exigente é crucial ter profissionalismo como a Reobote Design.
+Uma empresa criativa, empenhada e dedicada no que faz. Além de criativos, são responsáveis e
+pessoas de caráter; nunca cobram além do que é devido e sempre olham o lado do cliente em todas
+as negociações. A Ellgance Jóias agradece pelo trabalho e dedicação.’’</p>
+<img  src="http://www.reobotedesign.com.br/wp-content/uploads/2018/01/Tiago-Lima-Cliente-01.png" class="round icon">
+<h6  class="">Tiago Lima</h6>
+<p  class="small italic">Diretor da Ellegance Jóias</p>
+
+</div>
+</div>
+<div  class="col-sm-4">
+<div  class="card y-move bordered" data-type="column">
+
+<i  class="fa fa-quote-right icon color1 small"></i>
+<p  class="text-center">‘‘Meu trabalho exige divulgação de imagem, reconhecimentos, rankings, premiações e, tudo isso é feito por meio de layouts desenvolvidos com rapidez e qualidade. E eu encontro profissionalismo e
+competência na Reobote Design. Eles sabem aliar o que o cliente precisa com a técnica de
+desenvolvimento. Uma qualidade indispensável para o mercado atual é a flexibilidade e, isso
+a Reobote tem de sobra! Sabem ser flexíveis com o cliente! Estou muito satisfeita e indico sim
+os serviços da Reobote!’’</p>
+<img  src="http://www.reobotedesign.com.br/wp-content/uploads/2018/01/Luciana-Soares-Cliente-02.png" class="round icon">
+<h6  class="">Luciana Soares</h6>
+<p  class="small italic">Diretora de Vendas Mary Kay</p>
+
+</div>
+</div>
+<div  class="col-sm-4">
+<div  class="card y-move bordered" data-type="column">
+
+<i  class="fa fa-quote-right icon color1 small"></i>
+<p  class="text-center">‘’Nossa parceria deu muito certo, devido a Reobote ser uma empresa mega competente, atenciosa
+paciente, aberta a sugestões e sempre disponível e disposta a nos atender mesmo quando não temos&nbsp;tempo hábil ela sempre dá o seu melhor.’’</p>
+<img  src="http://www.reobotedesign.com.br/wp-content/uploads/2018/01/Anany-Vilarino-Cliente-03.png" class="round icon">
+<h6  class="">Anany Vilarino</h6>
+<p  class="small italic">Diretora da Solo Representações</p>
+
+</div>
+</div>
+</div>
+</div>
+</div><div  id="team-2" style="background-color: #ffffff;" data-label="Team" data-id="team-2" data-export-id="team-2" data-category="team" class="team-2 content-section content-section-spacing">
+<div  class="gridContainer">
+<div  class="row text-center">
+<div  class="section-title-col" data-type="column">
+<h2  class="">EQUIPE&nbsp; REOBOTE</h2>
+<p  class="lead">Apresentamos a vocês o time que está pronto para te receber e oferecer&nbsp; o melhor serviço de comunicação com qualidade e pontualidade! As nossas soluções otimizadas vem de cada integrante e possuímos a essência da inovação para otimizar o marketing e a comunicação.</p>
+
+</div>
+</div>
+<div  class="row spaced-cols content-center-sm" data-type="row">
+<div  class="col-sm-6 col-md-3">
+<div  class="card y-move no-padding bordered">
+
+<img  class="face" src="http://www.reobotedesign.com.br/wp-content/uploads/2018/01/Pablo.png">
+<div  data-type="column" class="col-padding-small col-padding-small-xs description-container">
+<h4  class="font-500">Pablo S. Oliveira</h4>
+<p  class="small" style="font-style: italic;">CEO</p>
+
+<div  class="social-icons-group" data-type="group"><a  href="https://www.facebook.com/pablo.doliveira.7" target="_self" class=""><i  class="gray fa icon small fa-facebook-square"></i></a> <a  href="#" target="_self" data-reiki-hidden="true"><i  class="gray fa icon small fa-twitter-square"></i></a> <a  href="https://www.linkedin.com/in/pablosoliveira" target="_self" class=""><i  class="gray fa icon small fa-linkedin-square"></i></a> <a  href="#" target="_self" data-reiki-hidden="true"><i  class="gray fa icon small fa-google-plus-square"></i></a></div>
+</div>
+</div>
+</div>
+<div  class="col-sm-6 col-md-3">
+<div  class="card y-move no-padding bordered">
+
+<img  class="face" src="http://www.reobotedesign.com.br/wp-content/uploads/2018/01/Flávia-Alves.png">
+<div  data-type="column" class="col-padding-small col-padding-small-xs description-container">
+<h4  class="font-500">Flávia Alves</h4>
+<p  class="small" style="font-style: italic;">Administrativo</p>
+
+<div  class="social-icons-group" data-type="group"><a  href="https://www.facebook.com/vinha.goncalves.7" target="_self" class=""><i  class="gray fa icon small fa-facebook-square"></i></a> <a  href="#" target="_self" data-reiki-hidden="true"><i  class="gray fa icon small fa-twitter-square"></i></a> <a  href="#" target="_self" data-reiki-hidden="true"><i  class="gray fa icon small fa-linkedin-square"></i></a> <a  href="#" target="_self" data-reiki-hidden="true"><i  class="gray fa icon small fa-google-plus-square"></i></a></div>
+</div>
+</div>
+</div>
+<div  class="col-sm-6 col-md-3">
+<div  class="card y-move no-padding bordered">
+
+<img  class="face" src="http://www.reobotedesign.com.br/wp-content/uploads/2018/01/Roney-Laurent.png">
+<div  data-type="column" class="col-padding-small col-padding-small-xs description-container">
+<h4  class="font-500">Roney Laurent</h4>
+<p  class="small" style="font-style: italic;">CMO</p>
+
+<div  class="social-icons-group" data-type="group"><a  href="https://www.facebook.com/myidentidade" target="_self" class=""><i  class="gray fa icon small fa-facebook-square"></i></a> <a  href="https://twitter.com/vulgo_ronin" target="_self" class=""><i  class="gray fa icon small fa-twitter-square"></i></a> <a  href="https://www.linkedin.com/in/roneylaurent" target="_self" class=""><i  class="gray fa icon small fa-linkedin-square"></i></a> <a  href="http://adjobsgrowthhacking.negocio.site" target="_self" class=""><i  class="gray fa icon small fa-line-chart"></i></a></div>
+</div>
+</div>
+</div>
+<div  class="col-sm-6 col-md-3">
+<div  class="card y-move no-padding bordered">
+
+<img  class="face" src="http://www.reobotedesign.com.br/wp-content/uploads/2018/01/Vladimir.png">
+<div  data-type="column" class="col-padding-small col-padding-small-xs description-container">
+<h4  class="font-500">Vladimir Ronei</h4>
+<p  class="small" style="font-style: italic;">Audiovisual</p>
+
+<div  class="social-icons-group" data-type="group"><a  href="https://www.facebook.com/vladimirronei.silva" target="_self" class=""><i  class="gray fa icon small fa-facebook-square"></i></a> <a  href="#" target="_self" data-reiki-hidden="true"><i  class="gray fa icon small fa-twitter-square"></i></a> <a  href="#" target="_self" data-reiki-hidden="true"><i  class="gray fa icon small fa-linkedin-square"></i></a> <a  href="#" target="_self" data-reiki-hidden="true"><i  class="gray fa icon small fa-google-plus-square"></i></a></div>
+</div>
+</div>
+</div>
+<div  class="col-sm-6 col-md-3">
+<div  class="card y-move no-padding bordered">
+
+<img  class="face" src="http://www.reobotedesign.com.br/wp-content/uploads/2018/01/Erick-Moulaz.png">
+<div  data-type="column" class="col-padding-small col-padding-small-xs description-container">
+<h4  class="font-500">Erick Moulaz</h4>
+<p  class="small" style="font-style: italic;">Gestor de Contas</p>
+
+<div  class="social-icons-group" data-type="group"><a  href="#"><i  class="gray fa icon fa-facebook-square small"></i></a> <a  href="#"><i  class="gray fa icon fa-twitter-square small"></i></a> <a  href="#"><i  class="gray fa icon fa-linkedin-square small"></i></a> <a  href="#"><i  class="gray fa icon fa-google-plus-square small"></i></a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div><div  data-label="Clients" data-id="clients-4" data-export-id="clients-4" data-category="clients" class="clients-4 content-section content-section-spacing-small" id="clients-4" style="background-color: #f5fafd; background-image: none;">
+<div >
+<div  class="gridContainer">
+<div  class="row">
+<div  data-type="column" class="section-title-col">
+<h2  class="font-700">Nossos Clientes</h2>
+<p  class="lead"></p>
+
+</div>
+</div>
+</div>
+<div  data-type="row" class="row spaced-cols middle-xs center-xs space-bottom">
+<div  class="col-xs-6 col-sm-2"><img  src="http://www.reobotedesign.com.br/wp-content/uploads/2018/02/Conexão-Barbers-Logo-.png" class=""></div>
+<div  class="col-xs-6 col-sm-2"><img  src="http://www.reobotedesign.com.br/wp-content/uploads/2018/02/Graf_Vert_Black.png" class=""></div>
+<div  class="col-xs-6 col-sm-2"><img  src="http://www.reobotedesign.com.br/wp-content/uploads/2018/02/LOGO-ALINE-VIANA-PNG.png" class=""></div>
+<div  class="col-xs-6 col-sm-2"><img  src="http://www.reobotedesign.com.br/wp-content/uploads/2018/02/Logo-Doce-Pensamento.png" class=""></div>
+<div  class="col-xs-6 col-sm-2"><img  src="http://www.reobotedesign.com.br/wp-content/uploads/2018/02/Logo-Drogaria-do-Povo.png" class=""></div>
+<div  class="col-xs-6 col-sm-2"><img  src="http://www.reobotedesign.com.br/wp-content/uploads/2018/02/cropped-LOGO-RODIMA-OFICIAL-COM-EFEITO.png" class=""></div>
+<div  class="col-xs-6 col-sm-2"><img  src="http://www.reobotedesign.com.br/wp-content/uploads/2018/02/Logo-Super-poderosas.png" class=""></div>
+<div  class="col-xs-6 col-sm-2"><img  src="http://www.reobotedesign.com.br/wp-content/uploads/2018/02/Logotipo-Álvaro-com-efeitos.png" class=""></div>
+<div  class="col-xs-6 col-sm-2"><img  src="http://www.reobotedesign.com.br/wp-content/uploads/2018/02/Logotipo-Pizza-Burguer.png" class=""></div>
+<div  class="col-xs-6 col-sm-2"><img  src="http://www.reobotedesign.com.br/wp-content/uploads/2018/02/Logotipo-Roberto-Cunha-Tipografia.png" class=""></div>
+<div  class="col-xs-6 col-sm-2"><img  src="http://www.reobotedesign.com.br/wp-content/uploads/2018/02/PERSONAL-REMER_LOGO_2.png" class=""></div>
+<div  class="col-xs-6 col-sm-2"><img  src="http://www.reobotedesign.com.br/wp-content/uploads/2018/02/Logo-LaDebs.png" class=""></div>
+</div>
+</div>
+</div></div><div id="upinpost-footer" style="clear:both"></div>  </div>
+</div>
+
+	<div  class='footer footer-contact-boxes'>
+    <div  class='footer-content'>
+        <div class="gridContainer">
+            <div class="row text-center">
+                <div class="col-sm-3">
+                        <div data-type="group"  data-dynamic-mod="true">
+        <i class="big-icon fa fa-map-marker"></i>
+        <p>
+            Belo Horizonte/MG - Brasil         </p>
+    </div>
+                    </div>
+                <div class="col-sm-3">
+                        <div data-type="group"  data-dynamic-mod="true">
+        <i class="big-icon fa fa-envelope-o"></i>
+        <p>
+            contato@reobotedesign.com.br        </p>
+    </div>
+                    </div>
+                <div class="col-sm-3">
+                        <div data-type="group"  data-dynamic-mod="true">
+        <i class="big-icon fa fa-phone"></i>
+        <p>
+            +55 31 3043-4250        </p>
+    </div>
+                    </div>
+                <div class="col-sm-3 footer-bg-accent">
+                    <div>
+                            <div data-type="group"  data-dynamic-mod="true" class="footer-social-icons">
+        
+            <a target="_blank"  class="social-icon" href="">
+                <i class="fa fa-facebook-official"></i>
+            </a>
+
+            
+            <a target="_blank"  class="social-icon" href="">
+                <i class="fa fa-twitter-square"></i>
+            </a>
+
+            
+            <a target="_blank"  class="social-icon" href="">
+                <i class="fa fa-instagram"></i>
+            </a>
+
+            
+            <a target="_blank"  class="social-icon" href="">
+                <i class="fa fa-google-plus-square"></i>
+            </a>
+
+            
+            <a target="_blank"  class="social-icon" href="">
+                <i class="fa fa-youtube-square"></i>
+            </a>
+
+            
+    </div>
+
+                        </div>
+                    <p  class="copyright">&copy;&nbsp;&nbsp;2018&nbsp;Reobote Design.&nbsp;Construído usando o WordPress e o <a target="_blank" href="http://extendthemes.com/mesmerize" class="mesmerize-theme-link"> Tema Mesmerize</a></p>                </div>
+            </div>
+        </div>
+    </div>
+</div>
+	</div>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var cf7msm_posted_data = {"cf7msm_prev_urls":null};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.reobotedesign.com.br/wp-content/plugins/contact-form-7-multi-step-module/resources/cf7msm.min.js?ver=3.0.1'></script>
+<script type='text/javascript' src='http://www.reobotedesign.com.br/wp-includes/js/jquery/ui/effect.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.reobotedesign.com.br/wp-content/themes/mesmerize/assets/js/smoothscroll.min.js?ver=1.2'></script>
+<script type='text/javascript' src='http://www.reobotedesign.com.br/wp-includes/js/jquery/ui/effect-slide.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.reobotedesign.com.br/wp-content/themes/mesmerize/assets/js/drop_menu_selection.min.js?ver=1.2'></script>
+<script type='text/javascript' src='http://www.reobotedesign.com.br/wp-content/themes/mesmerize/assets/js/kube.min.js?ver=1.2'></script>
+<script type='text/javascript' src='http://www.reobotedesign.com.br/wp-content/themes/mesmerize/assets/js/libs/fixto.min.js?ver=1.2'></script>
+<script type='text/javascript' src='http://www.reobotedesign.com.br/wp-content/themes/mesmerize/assets/js/sticky.js?ver=1.2'></script>
+<script type='text/javascript' src='http://www.reobotedesign.com.br/wp-includes/js/imagesloaded.min.js?ver=3.2.0'></script>
+<script type='text/javascript' src='http://www.reobotedesign.com.br/wp-includes/js/masonry.min.js?ver=3.3.2'></script>
+<script type='text/javascript' src='http://www.reobotedesign.com.br/wp-includes/js/comment-reply.min.js?ver=4.9.3'></script>
+<script type='text/javascript' src='http://www.reobotedesign.com.br/wp-content/themes/mesmerize/assets/js/theme.js?ver=1.2'></script>
+<script type='text/javascript' src='http://www.reobotedesign.com.br/wp-includes/js/wp-embed.min.js?ver=4.9.3'></script>
+<script type='text/javascript' src='//widget.upshare.co/up-load.js?mode=3&#038;ver=4.9.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mesmerize_backstretch = {"images":["http:\/\/www.reobotedesign.com.br\/wp-content\/uploads\/2018\/02\/PGI-01.png","http:\/\/www.reobotedesign.com.br\/wp-content\/uploads\/2018\/02\/PGI-02.png"],"duration":"5000","transitionDuration":"1000","animateFirst":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.reobotedesign.com.br/wp-content/themes/mesmerize/assets/js/libs/jquery.backstretch.js?ver=4.9.3'></script>
+<script type="text/javascript">
+document.addEventListener( 'wpcf7mailsent', function( event ) {
+    }, false );
+</script>
+</body>
+</html>
